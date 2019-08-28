@@ -1,3 +1,7 @@
+# Heroku App Deployed
+
+https://fractals-belly-button.herokuapp.com/
+
 # Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
