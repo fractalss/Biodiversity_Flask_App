@@ -2,9 +2,9 @@
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
 
-In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
+Build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
-## Step 1 - Plotly.js
+## Plotly.js
 
 Use Plotly.js to build interactive charts for your dashboard.
 
@@ -45,19 +45,17 @@ Use Plotly.js to build interactive charts for your dashboard.
 ![Example Dashboard Page](Images/dashboard_part1.png)
 ![Example Dashboard Page](Images/dashboard_part2.png)
 
-## Step 2 - Heroku
+## Heroku
 
 Deploy your Flask app to Heroku.
 
-* You can use the provided sqlite file for the database.
 
-* Ask your Instructor and TAs for help!
 
 - - -
 
-## Advanced Challenge Assignment (Optional)
+## Advanced Challenge 
 
-The following task is completely optional and is very advanced.
+The following task is very advanced.
 
 * Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the Weekly Washing Frequency obtained from the route `/wfreq/<sample>`
 
@@ -67,26 +65,3 @@ The following task is completely optional and is very advanced.
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
 
-- - -
-
-## Flask API
-
-Use Flask API starter code to serve the data needed for your plots.
-
-* Test your routes by visiting each one in the browser.
-
-- - -
-
-## Hints
-
-* Don't forget to `pip install -r requirements.txt` before you start your server.
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js Documentation](https://plot.ly/javascript/) when building the plots.
-
-- - -
-
-### Copyright
-
-Data Boot Camp © 2018. All Rights Reserved.
